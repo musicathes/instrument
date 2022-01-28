@@ -690,9 +690,9 @@ if (Yanfly.Param.BCEList['period'] !== 0) Input.keyMapper[190]    = 'period';
 if (Yanfly.Param.BCEList['foreSlash'] !== 0) Input.keyMapper[191] = 'foreSlash';
 
 if (Yanfly.Param.BCEList['space'] !== 0) Input.keyMapper[32]     = 'space';
-if (Yanfly.Param.BCEList['dirLeft'] !== 0) Input.keyMapper[37]   = 'dirLeft';
+if (Yanfly.Param.BCEList['dirLeft'] !== 0) Input.keyMapper[37]   = 'left';
 if (Yanfly.Param.BCEList['dirUp'] !== 0) Input.keyMapper[38]     = 'dirUp';
-if (Yanfly.Param.BCEList['dirRight'] !== 0) Input.keyMapper[39]  = 'dirRight';
+if (Yanfly.Param.BCEList['dirRight'] !== 0) Input.keyMapper[39]  = 'right';
 if (Yanfly.Param.BCEList['dirDown'] !== 0) Input.keyMapper[40]   = 'dirDown';
 if (Yanfly.Param.BCEList['ins'] !== 0) Input.keyMapper[45]       = 'ins';
 if (Yanfly.Param.BCEList['del'] !== 0)Input.keyMapper[46]        = 'del';
