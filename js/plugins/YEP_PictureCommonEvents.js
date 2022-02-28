@@ -5217,7 +5217,7 @@ Yanfly.PCE.version = 1.06;
  * 
  * @param ---Picture 168---
  * @default
- *
+ * 
  * @param Picture 168 Click
  * @parent ---Picture 168---
  * @type common_event
