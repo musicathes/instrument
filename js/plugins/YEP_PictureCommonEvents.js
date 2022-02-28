@@ -5053,8 +5053,659 @@ Yanfly.PCE.version = 1.06;
  * clicked and held. Leave this value at 0 for no common event.
  * @default 0
  *
- * @param Picture 162 Release
- * @parent ---Picture 162---
+ * @param Picture 163 Release
+ * @parent ---Picture 163---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 163---
+ * @default
+ *
+ * @param Picture 163 Click
+ * @parent ---Picture 163---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 163 Repeat
+ * @parent ---Picture 163---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 163 Hold
+ * @parent ---Picture 163---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 163 Release
+ * @parent ---Picture 163---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 164---
+ * @default
+ *
+ * @param Picture 164 Click
+ * @parent ---Picture 164---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 164 Repeat
+ * @parent ---Picture 164---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 164 Hold
+ * @parent ---Picture 164---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 164 Release
+ * @parent ---Picture 164---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 165---
+ * @default
+ *
+ * @param Picture 165 Click
+ * @parent ---Picture 165---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 165 Repeat
+ * @parent ---Picture 165---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 165 Hold
+ * @parent ---Picture 165---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 165 Release
+ * @parent ---Picture 165---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 166---
+ * @default
+ *
+ * @param Picture 166 Click
+ * @parent ---Picture 166---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 166 Repeat
+ * @parent ---Picture 166---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 166 Hold
+ * @parent ---Picture 166---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 166 Release
+ * @parent ---Picture 166---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 167---
+ * @default
+ *
+ * @param Picture 167 Click
+ * @parent ---Picture 167---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 167 Repeat
+ * @parent ---Picture 167---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 167 Hold
+ * @parent ---Picture 167---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 167 Release
+ * @parent ---Picture 167---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 168---
+ * @default
+ *
+ * @param Picture 168 Click
+ * @parent ---Picture 168---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 168 Repeat
+ * @parent ---Picture 168---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 168 Hold
+ * @parent ---Picture 168---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 168 Release
+ * @parent ---Picture 168---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 169---
+ * @default
+ *
+ * @param Picture 169 Click
+ * @parent ---Picture 169---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 169 Repeat
+ * @parent ---Picture 169---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 169 Hold
+ * @parent ---Picture 169---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 169 Release
+ * @parent ---Picture 169---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 170---
+ * @default
+ *
+ * @param Picture 170 Click
+ * @parent ---Picture 170---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 170 Repeat
+ * @parent ---Picture 170---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 170 Hold
+ * @parent ---Picture 170---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 170 Release
+ * @parent ---Picture 170---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 171---
+ * @default
+ *
+ * @param Picture 171 Click
+ * @parent ---Picture 171---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 171 Repeat
+ * @parent ---Picture 171---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 171 Hold
+ * @parent ---Picture 171---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 171 Release
+ * @parent ---Picture 171---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 172---
+ * @default
+ *
+ * @param Picture 172 Click
+ * @parent ---Picture 172---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 172 Repeat
+ * @parent ---Picture 172---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 172 Hold
+ * @parent ---Picture 172---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 172 Release
+ * @parent ---Picture 172---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 173---
+ * @default
+ *
+ * @param Picture 173 Click
+ * @parent ---Picture 173---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 173 Repeat
+ * @parent ---Picture 173---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 173 Hold
+ * @parent ---Picture 173---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 173 Release
+ * @parent ---Picture 173---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 174---
+ * @default
+ *
+ * @param Picture 174 Click
+ * @parent ---Picture 174---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 174 Repeat
+ * @parent ---Picture 174---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 174 Hold
+ * @parent ---Picture 174---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 174 Release
+ * @parent ---Picture 174---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 175---
+ * @default
+ *
+ * @param Picture 175 Click
+ * @parent ---Picture 175---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 175 Repeat
+ * @parent ---Picture 175---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 175 Hold
+ * @parent ---Picture 175---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 175 Release
+ * @parent ---Picture 175---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 176---
+ * @default
+ *
+ * @param Picture 176 Click
+ * @parent ---Picture 176---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 176 Repeat
+ * @parent ---Picture 176---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 176 Hold
+ * @parent ---Picture 176---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 176 Release
+ * @parent ---Picture 176---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 177---
+ * @default
+ *
+ * @param Picture 177 Click
+ * @parent ---Picture 177---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 177 Repeat
+ * @parent ---Picture 177---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 177 Hold
+ * @parent ---Picture 177---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 177 Release
+ * @parent ---Picture 177---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 178---
+ * @default
+ *
+ * @param Picture 178 Click
+ * @parent ---Picture 178---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 178 Repeat
+ * @parent ---Picture 178---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 178 Hold
+ * @parent ---Picture 178---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 178 Release
+ * @parent ---Picture 178---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 179---
+ * @default
+ *
+ * @param Picture 179 Click
+ * @parent ---Picture 179---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 179 Repeat
+ * @parent ---Picture 179---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 179 Hold
+ * @parent ---Picture 179---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 179 Release
+ * @parent ---Picture 179---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 180---
+ * @default
+ *
+ * @param Picture 180 Click
+ * @parent ---Picture 180---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 180 Repeat
+ * @parent ---Picture 180---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 180 Hold
+ * @parent ---Picture 180---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 180 Release
+ * @parent ---Picture 180---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 181---
+ * @default
+ *
+ * @param Picture 181 Click
+ * @parent ---Picture 181---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 181 Repeat
+ * @parent ---Picture 181---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 181 Hold
+ * @parent ---Picture 181---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 181 Release
+ * @parent ---Picture 181---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 182---
+ * @default
+ *
+ * @param Picture 182 Click
+ * @parent ---Picture 182---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 182 Repeat
+ * @parent ---Picture 182---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 182 Hold
+ * @parent ---Picture 182---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 182 Release
+ * @parent ---Picture 182---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
+ * 
+ * @param ---Picture 183---
+ * @default
+ *
+ * @param Picture 183 Click
+ * @parent ---Picture 183---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 183 Repeat
+ * @parent ---Picture 183---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 183 Hold
+ * @parent ---Picture 183---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 183 Release
+ * @parent ---Picture 183---
  * @type common_event
  * @desc Runs this common event when a picture with this ID is
  * released. Leave this value at 0 for no common event.
