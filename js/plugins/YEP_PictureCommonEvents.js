@@ -6020,6 +6020,37 @@ Yanfly.PCE.version = 1.06;
  * @desc Runs this common event when a picture with this ID is
  * released. Leave this value at 0 for no common event.
  * @default 0
+ * 
+ * @param ---Picture 194---
+ * @default
+ *
+ * @param Picture 194 Click
+ * @parent ---Picture 194---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 194 Repeat
+ * @parent ---Picture 194---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is held
+ * every 6 frames. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 194 Hold
+ * @parent ---Picture 194---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * clicked and held. Leave this value at 0 for no common event.
+ * @default 0
+ *
+ * @param Picture 194 Release
+ * @parent ---Picture 194---
+ * @type common_event
+ * @desc Runs this common event when a picture with this ID is
+ * released. Leave this value at 0 for no common event.
+ * @default 0
  * ============================================================================
  * Introduction
  * ============================================================================
